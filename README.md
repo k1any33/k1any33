@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kian Yee</h1>
+<h1 align="center">Hi 👋, I'm Kian</h1>
 <h3 align="center">A passionate software engineer from Singapore</h3>
-
-📃 I’m currently working on 
-1. **intrvwr**, an application that helps you to autofill your job applications
-2. **enthuX**, an elearning platform with a gamified environment that aims to motivate learners
-
-🔥 I’m currently learning **Java**
 
 👨‍💻 My website is available [here](https://k1any33.github.io/personal-website/)  
 
